@@ -1,0 +1,24 @@
+transaction_id,customer_id,full_name,phone,email,amount,currency,date,type,country
+TXN001,CUST101,john smith,5551234567,john.smith@email.com,500.00,USD,2024-01-15,WIRE,US
+TXN002,CUST102,JANE DOE,+1-555-987-6543,jane.doe@bank.com,9500.00,USD,2024-01-16,CASH,US
+TXN003,CUST103,carlos mendez,5559876543,carlos@empresa.mx,2000.00,MXN,2024-01-16,WIRE,MX
+TXN004,CUST104,priya patel,5554321098,priya.patel@tech.com,75000.00,USD,2024-01-17,WIRE,US
+TXN005,CUST105,ahmed al-farsi,5556789012,ahmed@mail.com,15000.00,USD,2024-01-17,CASH,IR
+TXN006,CUST106,lisa chen,,lisa.chen@company.com,1200.00,USD,2024-01-18,ACH,US
+TXN007,CUST107,bob johnson,5553210987,not-a-valid-email,800.00,USD,2024-01-18,WIRE,US
+TXN008,,sarah williams,5557654321,sarah@webmail.com,3500.00,GBP,01/19/2024,WIRE,GB
+TXN009,CUST109,michael brown,5558901234,michael.brown@corp.com,-200.00,USD,2024-01-19,REFUND,US
+TXN010,CUST110,YUI TANAKA,5550123456,yui.tanaka@japan.jp,500000,JPY,2024-01-20,WIRE,JP
+TXN011,CUST111,anna novak,+420-555-111-222,anna.novak@cz.com,1500.00,EUR,20-01-2024,ACH,CZ
+TXN012,CUST112,david kim,5552345678,david.kim@startup.io,9800.00,USD,2024-01-21,CASH,US
+TXN013,CUST101,john smith,5551234567,john.smith@email.com,500.00,USD,2024-01-21,WIRE,US
+TXN014,CUST114,fatima al-zahra,5559012345,fatima@address.com,25000.00,USD,2024-01-22,WIRE,YE
+TXN015,CUST115,JAMES WILSON,15557890123,james.wilson@bigco.com,250.00,CAD,2024-01-22,ACH,CA
+TXN016,CUST116,elena sokolova,5553456789,elena.sokolova@mail.ru,800.00,EUR,2024-01-23,WIRE,RU
+TXN017,CUST117,raj kumar,5554567890,raj.kumar@outsource.in,120.00,USD,2024-01-23,ACH,IN
+TXN018,CUST118,wendy zhang,5555678901,wendy.zhang@finance.com,10500.00,USD,2024-01-24,CASH,US
+TXN019,CUST119,omar hassan,5556789012,omar.hassan@trading.com,5000.00,USD,2024-01-24,WIRE,SO
+TXN020,CUST120,lucy martin,5557890123,lucy.martin@retail.com,75.00,AUD,2024-01-25,DEBIT,AU
+TXN013,CUST101,john smith,5551234567,john.smith@email.com,500.00,USD,2024-01-25,WIRE,US
+TXN022,CUST122,pierre dumont,5558901234,pierre.dumont@france.fr,3000.00,EUR,2024-01-26,WIRE,FR
+TXN023,CUST123,nina patel,5559012345,nina.patel@consultancy.com,9200.00,USD,2024-01-26,CASH,US
